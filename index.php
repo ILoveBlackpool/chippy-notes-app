@@ -1,5 +1,7 @@
 <?php
 
+require_once 'views/header.html';
+require_once 'views/partials/sideBar.phtml';
 require_once 'vendor/autoload.php';
 require_once 'Models/Database.php';
 require_once 'Models/Note.php';

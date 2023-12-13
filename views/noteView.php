@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 </head>
 <body>
-    <?php include "partials/sideBar.php"; ?>
+    <?php include "partials/sideBar.phtml"; ?>
     <div class="content-wrapper">
         
         <?php if (isset($displayText)): ?>
